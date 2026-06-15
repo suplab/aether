@@ -10,7 +10,7 @@
 ### AetherGrid
 
 > **AetherGrid: A Distributed Cognitive-Orchestration Framework Linking Sensory-Emotional Memory Encoding (AetherCore) with Autonomous Agent Governance**
-> Zenodo Preprint · doi:[10.5281/zenodo.20394197](https://doi.org/10.5281/zenodo.20394197)
+> Zenodo Preprint · doi:[10.5281/zenodo.17477224](https://doi.org/10.5281/zenodo.17477224)
 
 The foundational paper describing the AetherGrid architecture, its relationship to AetherCore, and the cognitive-orchestration model that underlies the ecosystem.
 

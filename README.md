@@ -157,4 +157,4 @@ All Aether runtime components share the same foundation:
 ## Publications
 
 **AetherGrid: A Distributed Cognitive-Orchestration Framework Linking Sensory-Emotional Memory Encoding (AetherCore) with Autonomous Agent Governance**
-[Preprint on Zenodo](https://doi.org/10.5281/zenodo.20394197) · doi:10.5281/zenodo.20394197
+[Preprint on Zenodo](https://doi.org/10.5281/zenodo.17477224) · doi:10.5281/zenodo.20394197
